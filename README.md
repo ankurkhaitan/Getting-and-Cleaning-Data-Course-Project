@@ -14,5 +14,5 @@
    - Appropriately labels the data set with descriptive variable names given in `feature_name`.
    - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject `unique_act_sub`.
 
-4. `CodeBook.md`: a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data
+4. `CodeBook.md`:- a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data
 
