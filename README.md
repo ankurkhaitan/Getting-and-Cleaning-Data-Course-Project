@@ -1,14 +1,5 @@
 # Getting and Cleaning Data Course Project
 
-## Motivation of Data Set
-This data set is motivated by the course project of Getting and Cleaning Data from Coursera John Hopkins University Data Science Special Section. The purpose of the project is to obtain tidy dataset by collecting, working with, and cleaning a raw data set. The original data set is obtained from the *Human Activity Recognition Using Smartphones Data Set* in **UCI Machine Learning Repository**.
-
-This smartphone data set is one of the typical examples of wearable computing - see for example [this article](http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/). Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. A full description of the smartphone data set is available at the site where the data was obtained:
-
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones (a newly updated version is also available).
-
-For the smartphone data set, relevant experiments were carried out with a group of 30 volunteers within an age bracket of 19-48 years old. Each individual performed six different activities wearing a smartphone, including walking, walking upstairs, walking downstairs, sitting, standing and laying. The smartphone was embedded accelerometer and gyroscope to capture the movement of the individuals. The experiments were also video-recorded to label the data manually. 
-
 ## This repository includes the following files
 
 1. `README.md`: explains how all of the scripts work and how they are connected.
